@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Aplicación de prueba</string>
+  <string name="action_settings">Settings</string>
+
+  <string name="titulo_main_1">Título</string>
+  <string name="titulo_main_2">Título</string>
+  <string name="titulo_main_3">Inicie sesión</string>
+  <string name="version">1.0.0</string>
+  <string name="titulo_registro_1">Complete su registro</string>
+
+  <string name="usuario">Nombre de usuario</string>
+  <string name="contrasena">Contraseña</string>
+
+  <string name="nombre_usuario">Nombre</string>
+  <string name="apellidos">Apellidos</string>
+  <string name="email">Email</string>
+</resources>
